@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443474535331",
+    "project_id": "fir-app-ceec1",
+    "storage_bucket": "fir-app-ceec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443474535331:android:140bec79d686133f0d3016",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoidVJK0Fc_yvLpUjGYvwC1Y4ViRi0fHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
